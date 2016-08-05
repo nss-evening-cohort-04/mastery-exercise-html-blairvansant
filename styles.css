@@ -1,0 +1,89 @@
+.firstArticle {
+	height: 100%;
+	width: 30%;
+	border: solid;
+	border-width: 1px;
+	border-color: lightblue;
+	font-family: sans-serif;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.secondArticle {
+	display: inline-block;
+	display: height: 100%;
+	width: 30%;
+	border: solid;
+	border-width: 1px;
+	border-color: lightblue;
+	font-family: sans-serif;
+	margin: 0 20px 0 20px;
+}
+
+.thirdArticle {
+	display: inline-block;
+	display: height: 100%;
+	width: 30%;
+	border: solid;
+	border-width: 1px;
+	border-color: lightblue;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+
+.fourthArticle {
+	display: inline-block;
+	display: height: 100%;
+	width: 30%;
+	border: solid;
+	border-width: 1px;
+	border-color: lightblue;
+	font-family: sans-serif;
+	margin-left: 20px;
+}
+
+.heading {
+	text-align: center;
+	font-size: 18px;
+	border: dotted;
+	border-width: 1px;	
+	border-color: lightgrey;
+}
+
+.card {
+	height: 300px;
+	width: 75%;
+	display: block;
+	padding: 20px 0;
+	margin: 0 auto 0 auto;
+}
+
+.description {
+	display: block;
+	text-align: justify;
+	padding: 10px 10px;
+}
+
+.break {
+	color: yellow;
+	background-color: darkgrey;
+	padding-left: 5px;
+	margin-left: 3px;
+}
+
+.spec {
+	padding-left: 10px;
+}
+
+footer {
+	margin: 8px 0 0 10px;
+}
+
+h3 {
+	font-weight: bold;
+	margin-left: 5px;
+}
+
+.price {
+	padding:0 0 10px 10px;
+}
